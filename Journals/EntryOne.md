@@ -15,7 +15,7 @@ I did some additional Research to make my Keyboard theme match with NKG. This is
 - SK-6812 MINI-E RGB LEDs were chosed for the LEDs since it was preffered for keyboards
 - Aluminum Sand Blasted Knurling Encoder Knobs (Red) to style my encoder
 - Rotary Encoder for a custom touch
-- Orpheus Pico (since Hack Club provided for it)
+- Raspberry Pi Pico
 
 ## Stage 3: Schematic
 <figure>
