@@ -18,4 +18,11 @@ I did some additional Research to make my Keyboard theme match with NKG. This is
 - Orpheus Pico (since Hack Club provided for it)
 
 ## Stage 3: Schematic
+<figure>
+<img width="1130" height="795" alt="Screenshot 2026-07-18 100218" src="https://github.com/user-attachments/assets/734191aa-0dce-4af5-b9c5-66a8b55a650e" />
+<figcaption><strong>Image of Schematic Progress</strong></figcaption>
+  <br/>
+</figure>  
+
+
 Since I had finished my BOM, I started with my PCB schematic. I had used about (I am not sure) 87 switches. I organized them into how a keyboard looks. Right now this is in progress since I am still working on wiring the matrix, working on the LEDs, and wiring the Rotary Encoder.
