@@ -1,12 +1,12 @@
 Item ID,Item name,Website,Price,Quantity,Role in Keyboard,Notes
-N/A,Raspberry Pi Pico,Raspberry Pi Pico,$0.00,1,Microcontroller/Brain,This is an Raspberry Pi Pico provided by Hack Club. Some fields may be missing since it is not for sale and only available with Hack Club programs.
-N/A,Gateron Oil King Linear Switch Set,Gateron,$71.50,1,Keyboard Switches,"IMPORTANT: These switches come in sets, so I chose the 110 switches set."
-N/A,BRED Keycap Set - Kraken Keycaps,Kraken Keycaps,$39.99,1,Key Caps,IMPORTANT: This also comes in a set
-N/A,Aluminum Sand Blasted Knurling Encoder Knobs,KeeBD rotary encoder knob,$5.00,1,Encoder Knob,
-N/A,Rotary Encoder - EC11,Keebio Rotary Encoder - EC11,$1.99,1,Rotary Encoder,
-N/A,SK-6812 MINI-E RGB LEDs,Keebio SK-6812 MINI-E RGB LEDs,$23.96,4,RGB LEDs,IMPORTANT: This comes as 25-pack
-N/A,M3x5mmx4mm Heatset inserts,CNCKitchen Heatset Inserts,$11.50,1,Heatset Inserts,IMPORTANT: This comes as a 100 pack
-N/A,Screw-in Stabilizer Kit,Durock V3 Screw-in Stabilizer Kit,$17.17,1,Stabilizers,IMPORTANT: This comes as a kit
-SKU 75945,M3x16mm Screws,3mm-0.5 x 16mm Black Oxide Class 10.9 Steel Coarse Thread Button Head Hex Socket Cap Screws,$8.45,1,Screws,IMPORTANT: This comes as a set
-161661-1N4148-100,Through-hole 1N4148 Diodes,Through-hole 1N4148 Diodes,$4.24,1,Diodes,IMPORTANT: This comes in a set of 100
+N/A,Raspberry Pi Pico 2,https://vilros.com/products/raspberry-pi-pico-2?src=raspberrypi,$5.00,1,Microcontroller/Brain, ,
+N/A,Gateron Oil King Linear Switch Set,https://www.gateron.com/products/gateron-oil-king-pre-lubed-switches-linear?VariantsId=11428,$71.50,1,Keyboard Switches,"IMPORTANT: These switches come in sets, so I chose the 110 switches set."
+N/A,BRED Keycap Set - Kraken Keycaps,https://krakenkeyboards.com/products/bred-keycap-set-kraken-keycaps,$39.99,1,Key Caps,IMPORTANT: This also comes in a set
+N/A,Aluminum Sand Blasted Knurling Encoder Knobs,https://keebd.com/en-us/products/aluminum-sand-blasted-knurling-encoder-knob?variant=41393943314584,$5.00,1,Encoder Knob,
+N/A,Rotary Encoder - EC11,https://keeb.io/products/rotary-encoder-ec11?utm_source=chatgpt.com,$1.99,1,Rotary Encoder,
+N/A,SK-6812 MINI-E RGB LEDs,https://keeb.io/products/sk-6812-mini-e-rgb-leds-12-pack?variant=41932389941342&_gsid=7MoeAGoX9gcb&utm_source=chatgpt.com&utm_medium=feed&oppcref=9a2cd94d-b73b-4424-b506-a4ea53180fab,$23.96,4,RGB LEDs,IMPORTANT: This comes as 25-pack
+N/A,M3x5mmx4mm Heatset inserts,https://cnckitchenus.store/products/made-for-voron-gewindeeinsatz-threaded-insert-m3x5x4-100-stk-pcs?variant=47400101544036&_gsid=kuc1tieE4DzF&utm_source=chatgpt.com&utm_medium=feed&oppcref=bc5291e3-d8aa-4061-bf66-58cf3272df4b,$11.50,1,Heatset Inserts,IMPORTANT: This comes as a 100 pack
+N/A,Screw-in Stabilizer Kit,https://rndkbd.com/products/new-durock-v3-screw-in-stabilizer-kit?variant=44629108752618&_gsid=BomXN6RDNq6f&utm_source=chatgpt.com&utm_medium=feed&oppcref=1c591ba1-6fe4-46c1-9a50-682c1a70a08c,$17.17,1,Stabilizers,IMPORTANT: This comes as a kit
+SKU 75945,M3x16mm Screws,https://fastenerline.com/products/75945?variant=39868684665022&_gsid=ptAqhY12Jb74&utm_source=chatgpt.com&utm_medium=feed&oppcref=565ebc80-1868-4164-92bf-d03caf8e0c71,$8.45,1,Screws,IMPORTANT: This comes as a set
+161661-1N4148-100,Through-hole 1N4148 Diodes,https://shop.sayal.com/products/1n4148-100?variant=21192651341882&_gsid=uD2ozczk69Pm&utm_source=chatgpt.com&utm_medium=feed&oppcref=993f3d83-1c2e-4424-af56-c5b0b72b15cd,$4.24,1,Diodes,IMPORTANT: This comes in a set of 100
 TOTAL:, , ,$183.80,, , 
